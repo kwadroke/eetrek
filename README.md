@@ -1,3 +1,3 @@
 # EETrek
 
-A Trek-like mod for Empty Epsilonk
+A Trek-like mod for Empty Epsilon.
