@@ -15,6 +15,6 @@ Android: ??
 
 ## Running the Mod
 
-Edit _options.ini_ and change `mod=` to mod=eetrek`  
+Edit _options.ini_ and change `mod=` to `mod=eetrek`  
 OR  
 Run `EmptyEpsilon mod=eetrek`
