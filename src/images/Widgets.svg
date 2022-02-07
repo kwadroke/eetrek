@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg16704"
+   sodipodi:docname="Widgets.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview16706"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.50258398"
+     inkscape:cx="181.06427"
+     inkscape:cy="1980.7635"
+     inkscape:window-width="2112"
+     inkscape:window-height="1104"
+     inkscape:window-x="1407"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       position="115.07798,155.57239"
+       orientation="0,-1"
+       id="guide18035"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs16701" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:0.604538"
+       id="rect18624"
+       width="132.285"
+       height="17.4625"
+       x="37.694458"
+       y="153.32169"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/SliderTick.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#710c16;fill-opacity:1;stroke-width:0.846667"
+       id="rect17816"
+       width="40.302502"
+       height="26.446262"
+       x="64.821548"
+       y="147.28386" />
+    <rect
+       style="fill:none;stroke-width:1.65202"
+       id="rect16955"
+       width="16.933332"
+       height="17.4625"
+       x="85.958603"
+       y="142.1209"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/ButtonBackground.png"
+       inkscape:export-xdpi="468.10999"
+       inkscape:export-ydpi="468.10999" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.794967"
+       id="path16833"
+       cx="94.42527"
+       cy="150.85214"
+       rx="7.7392817"
+       ry="7.9403954"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/ButtonBackground.png"
+       inkscape:export-xdpi="468.10999"
+       inkscape:export-ydpi="468.10999" />
+    <image
+       width="16.933332"
+       height="17.4625"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAQAAABNqBheAAADzklEQVRo3u1ZTU/qQBStMcYoBD+C EDe60F+AiolLdamwM9EFGINfRKkI+Ci0WKfTCAoUo6GJUTRiiSH9j7wZEYQn8Ci0hYWcFYTOPe3c uff2HKJE9BbELwHllxyazlZCbirKCGwOFECBzTECFQ25z1YOTRoTIK3n23QKFqHcBEU6db5NWjUh 4LdRXCX0watDXBbmb8z8CBgBZn7+ZllwiAevFRoU57epSoBcpG/Li7ufbenBK4JtjMErW9r9XP4n fUsuqkLAa6HCeMHzd6do4JqFroWBc4rn7/gaKuy1dEmAXAdoqcuiIzvAEgowwDqyl2jDwDu53jEB z9AfH76P3dwUT7DKMcXv5vD1f3yeoQ4IeIzROL589b6T4BWs3uM1onGPUSGB48lYBsohaTbeTXiM 2XhIgnIsczypgMChibmDsi/f2aP/uRW+PJSZu8ZlquHeRxJQPs2PQzXCY4zDU0QhkmiUCw0IXJxB OVgw82qFxzDzwQKUL87aIECu47SZiasZHmPmM6V/Hsp/vu5bgdRt5rc6EUDat7YkQLG43GoRHgOX aYptQeB0CZ3ZDxOnFQETF/1A6b3UlACdhPKmqFV4jE0RtalkEwJ+G5T9kpbhMfwox2qbde3+c1B2 iloTcKJnQHENCBxPcqh7GTitCRjQbXLF78JcJRDcgvJeTuvwGHuoRwa3fhDACbiY1oPAYro2Eavt B897zYctNTF4hefGSmuqFOAVNGq+6BEe4+AFFeWVOgJBF5Qdol4EHOgkBF11BCgaynZBLwJ2AR1F uo4Ag36aS+hFYA7NG4xQR4BFR0PdCaD1dABlNldHAKBxYQToRWAEoMZcqK8D6KNXeIzSZ8B+ItDz Leh5Evb8GPa8EIXcepfikLu/mlHP23HPB5I+GMnKQ+mo5sVoFDQZSktEBOg1lkdAf76YlBNxI6tl +I1si1ezEuGz6/Fy6rP37+s5lqO1FihI638kGv/ap0RzrbpEc43X9a+1KVIFpAmoZvgJGJDaFKmw TEejfn3yNqYahTF48oayv12ZrkQcjccesFKozoxk5rFKGHs4Glck1TIoZYKqSLVB9PCZe0VSbVms xhuhjliNHr6xA7neOxwmy3J9Z1th/pLrw6R3uEvDIoYMC8VjVzbWrWFRtWwinydYcojtNetR4BBx y0FVL9K1ZVM1rZJlK8r1ZEu1NK1Srqcv0yqpkmlVVVEXIoCTv207uzCXsPBGzshZ+LmEvca241C/ P13QxLj0TQd2mJbGJZMK7Pim9bFuaSbDPoI8yLOPTIaidbFuf91zLfAXT7z76GQaxmcAAAAASUVO RK5CYII= "
+       id="image17081"
+       x="68.645233"
+       y="150.09998" />
+    <rect
+       style="fill:none;stroke-width:1.67763"
+       id="rect17898"
+       width="17.4625"
+       height="17.4625"
+       x="108.98967"
+       y="146.76915"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/SelectorArrow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;stroke-width:0.794967"
+       id="ellipse17900"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/SelectorArrow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:type="arc"
+       sodipodi:cx="118.07816"
+       sodipodi:cy="155.5004"
+       sodipodi:rx="7.7392817"
+       sodipodi:ry="7.9403954"
+       sodipodi:start="1.5715413"
+       sodipodi:end="4.7140998"
+       sodipodi:arc-type="arc"
+       d="m 118.0724,163.44079 a 7.7392817,7.9403954 0 0 1 -6.70078,-3.97753 7.7392817,7.9403954 0 0 1 0.01,-7.94261 7.7392817,7.9403954 0 0 1 6.71027,-3.96064"
+       sodipodi:open="true" />
+    <image
+       width="17.4625"
+       height="17.4625"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAABCCAYAAADjVADoAAAFfklEQVR42u3af0yUdRwH8McyaetP t4TjuIO7gzvg+P2jQyFwyiyNYY6kYKVlSIWuISVTgyY/8he6GdhWydYP3WRilrkQ19KiOQsdyzR0 4SSnYQoZCoSe8u39ebjnfHzcERz3x32fu8/2+Yf763nx/b6/P55HEPzlL3/5y1/eWzO0YdNmaA27 0FqfRQgMMTyKbg0MMTJ0GzAe9jmEIJ0xAN2i0ZtYkG60gVHmUwh4+KnasIh9IQYzCzFY2DOLXmAa fThhDGNUxPgEQnBo+FSd0bJXb4piYRHRbGvDTlZX/zELDo2QRkXH48Fh01SNgFHwEAA+NZitzBQV x2q21LO+QcZef7NcHBkOCAaIGjUjTAFCvTEylpmtCay2bhSBel5OHtMZI+UQHWpG2EmjIDI2ib23 dYcT4drNu/hbihMCGUEQDaqEAMJ2ESEumW2QIVD/fOp3ZrTEKiEK1IiwTUKorK27D4F6d/NBZjDH ODPCARGqNoRqCWFd1aYHEKgrqrdg9bAybZhZgrikNoQKCsaxEKgXF77CQsOjxeXTEZR71YSwZjwI vQMjLC45nelN0eKGygFRqhaE1RLC2+9Uu0Sg7ujsxn4iXhmUqWpAKAHCCC2RpeWV4tI4FkTTV63i iiELykFAPMI7wmsTQaCu3rRdGZTfc42gM0UWTRSBumBpsTIoN/CMUAiEO4SwsmztuBGok2xZyqDM 4RXheQmheOVb7K9++7gRTnddVgblCCCm84iQC4Tb7iBQf/HNd8qgPMsjQg4QbrmLQL1x2wfi1loW lI28Icw3WmJEhOUlZW4hUC8pWqEMymU8IcwGwhAhvPRqCfvz72G3EKjTnsxWBmUkLwiZQBj0BMK5 P66NBiWu6xzTog8QU7wfwWjJAMKAJSZx0gjUXx9uU95BHOThdikFl6z/0PXai8vemDQCNV3YKu4g 1no1Aq7dkzAlrtMhKq/gZXapd2jSCNRFJauUW+ssr0XAG6ggXL330LX7goX57OLVAY8gUGdmL3BC ICjtyIfHvBmiABCMIGrrGjyGQB2fmi6HOOnV0wIQekyNCwhKZsLUaNzV7DEImmayqXHG64MS7ya1 CMuu0PAovItIZHv2t3gEYl3VZnlY2pERAV6PgVERgneU5+ntFO0hmvYfmjTEZ00HmDEyTr58WrnY TAFDhylywVMYxzvOOTdUtLMERD4322tg6IHR7QmMqzfusOgEm7jFdpw11nN14AJGODAuSxhfthx1 GyM3r1AMTAdEM3dHcGBESBgxiU+wA4d/cAuivKJGfgzv5PJmChhmYPRMBqNx9z75eYOPlcMFhgUY V9zFaGs/rTyBWgVeCxixwOjFyVTEOHTk+Lgheq7fEj8HkN1J5As8FzDigdFHwzw+ZRb7tu3EuDGe zn1Ofku1XuC9gJGAuT5hjNLyd+WB2SyoofBftQGjfyIYH36yR36T3SmopYCRhvC7IWEcOdYxJgT9 LgtMflcOFxgz8WA3CSM5LZP92H7GJQRd9JitSfLAVNc3lsBIlzBSZmaNiZE9/1lnYAbxvnK4wJgL jKH/w1ixao3zbkKjM1UJaixgZAPjXwnj2MnfHoBo+OhzceXQITA1alk5XGDMkzDopc6JX8/fB9F6 9Cdx5dBjq61R08rhAuMpYAzTA9sy5gKjywnRfaWfme5B2JETAWrHWAiM24SRmj6HtZ+6h2HLmCNB UGCq/+t8YCwChp3CMRmZQV/dil/OLCmWMkKdK4cLjDzsJO20iUqdNZv9cvYiq8RHp1osnyKEzlgl +Eph87QYIHZaMpNtmaxm8/sigkb8Ot/QLPhSYUu9HA8+Qg8vGw2DgFgt+FohD5ai76KHArWGjUCY LvhqASAPbRD85S9/+ctf/NR/IDaxONryOE8AAAAASUVORK5CYII= "
+       id="image18031"
+       x="108.3117"
+       y="166.63232" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.9116"
+       id="rect18143"
+       width="12.7"
+       height="12.7"
+       x="105.56216"
+       y="189.46727"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/KeyValueBackground.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.9116"
+       id="rect18397"
+       width="12.7"
+       height="12.7"
+       x="85.958603"
+       y="159.58339"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/KeyValueBackground.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke-width:1.7523"
+       id="rect18399"
+       width="11.641666"
+       height="11.641666"
+       x="86.48777"
+       y="160.11255"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/KeyValueBackground.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke-width:1.9116"
+       id="rect18533"
+       width="12.7"
+       height="12.7"
+       x="84.062958"
+       y="180.71837"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/SliderKnob.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.7523"
+       id="rect18535"
+       width="11.641666"
+       height="11.641666"
+       x="84.592125"
+       y="181.24753"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/SliderKnob.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       width="16.933332"
+       height="17.4625"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAQAAABNqBheAAAAb0lEQVRo3u3SywmAQAwFwIjfFu3P Iv2iK65gBwpOHsklOcwhxR7vVgEAAAAAAAAAAAAAAAAAAPAdQB9lVFGnbnLanO4xz9z767qMLdZY Us85U874mGfu/XU9fA7gBwAAAAAAAAAAAAAAAAAA/go4AJx9egHuVApjAAAAAElFTkSuQmCC "
+       id="image18598"
+       x="51.893063"
+       y="178.1866" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.859625"
+       id="rect18750"
+       width="132.285"
+       height="0.69999999"
+       x="38.750126"
+       y="161.70294"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/SliderTick.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       width="16.933332"
+       height="17.4625"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAQAAABNqBheAAAC4klEQVRo3u2ZQU8aQRTH1xDTEBpq CEp60QP9BJRiwtF6bJebiRchhkIghQUC6squLruzCRRl25Kwl4qmAjFkvmM7rwhtLWCBZWcO5n8i Yef/g33z3ps33A+OrrgngFkfSLpz4VJULMuG0lZ7CCOs9pS2bIjlUjQXTrqXCCD4CvvSJeqD6UT1 pcvCfval5QD5gKgNrRM3vLltvPrk1Z0qp3CKU/Xq/tq2wZuJmyGGqGVeWwYgBKX6YOHoVaDhqIDp JDkqgcbBt8G3pboQXBggvSGewGKFTsR0adOs/5RL481CB54TT9IbCwAIuypZ5rzPt1YUbkatKHzr nLw0tSPszgUQXz3Owm+Itdd1TplP63qsDWscZ9PPZgSIPy9X4dGd5rzmQ+00YZ1yPfdiBoCU5+wz wqXuVnVRe9BWtdBF+KyZ8vwnQNItf0E4ezv/X/9QHv3jd4Tlr+PS1Jh3f1pDOHO7hqyyB62hDEE4 rcVXHwU4yiFc7Hl1K+1BXr1IEvdR7hEAYRdCZrNqtT1o81dY599OAfjgU7tWRP60HaF2Bd9EAFGB dLsse1D0imRHZQJA5g3Zr3dubZkAbq18R3ZYaCyAdIHwe3OZ9qB3LVKmLsYA5AMkQLrLtgflSZzl A/8AkHqPI6YdABGTxIH2ACDl0Ujlcml2ALjIT9X6w8R8D1DcQ/iwbYc96JDUyOLeXwAQgMGGXQDB xu9AvC8/0O9Nb7aslKMCfeOgNA0ScJi0mtd22YMS1wgL4RFA8QBh3rQTgCfZoBQbAYgSwiHDToCQ QbaiNAKQyUd/zU4AP+k5ZGMEoJBtYX0HMLVHQghX2iMAOOMNTjl2yalCYR4BQKNgpz0IPNkBoP4K qAch9W1IPRFRT8XUixH1cky9IWGgJaPelFJvyxk4mFA/mjFwOKV+PGdgQEF9RMPAkIqBMR31QSUD o1oGhtUMjOsZuLBg4sqGgUsrJq7tmLi4ZOLq9un2fDn6CUiRv4Af6QnhAAAAAElFTkSuQmCC "
+       id="image18914"
+       x="27.31221"
+       y="184.03903" />
+    <rect
+       style="fill:none;stroke-width:1.65202"
+       id="rect18918"
+       width="16.933332"
+       height="17.4625"
+       x="50.359215"
+       y="184.93883"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/ButtonBackground.png"
+       inkscape:export-xdpi="468.10999"
+       inkscape:export-ydpi="468.10999" />
+    <ellipse
+       style="fill:#999999;stroke-width:0.794967"
+       id="ellipse18920"
+       cx="58.825882"
+       cy="193.67007"
+       rx="7.7392817"
+       ry="7.9403954"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/ButtonBackground.png"
+       inkscape:export-xdpi="468.10999"
+       inkscape:export-ydpi="468.10999" />
+    <rect
+       style="fill:#808000;stroke-width:5.74603"
+       id="rect1025"
+       width="270.93332"
+       height="191.02916"
+       x="-21.988419"
+       y="257.88327"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:0.849451"
+       id="rect1291"
+       width="270.93332"
+       height="19.423605"
+       x="-21.988419"
+       y="257.88327"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:0.849451"
+       id="rect1494"
+       width="270.93332"
+       height="19.423605"
+       x="-21.988419"
+       y="429.4888"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:0.770931"
+       id="rect1496"
+       width="223.16019"
+       height="19.423605"
+       x="1.8981476"
+       y="386.58743"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:0.770931"
+       id="rect1498"
+       width="223.16019"
+       height="19.423605"
+       x="1.8981476"
+       y="300.78464"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:0.694439"
+       id="rect1500"
+       width="181.07333"
+       height="19.423605"
+       x="22.941574"
+       y="343.68604"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:5.74603"
+       id="rect1667"
+       width="270.93332"
+       height="191.02916"
+       x="-21.988419"
+       y="257.88327"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:0.849451"
+       id="rect1669"
+       width="270.93332"
+       height="19.423605"
+       x="-21.988419"
+       y="257.88327"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:0.849451"
+       id="rect1671"
+       width="270.93332"
+       height="19.423605"
+       x="-21.988419"
+       y="429.4888"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:0.770931"
+       id="rect1673"
+       width="223.16019"
+       height="19.423605"
+       x="1.8981476"
+       y="386.58743"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:0.770931"
+       id="rect1675"
+       width="223.16019"
+       height="19.423605"
+       x="1.8981476"
+       y="300.78464"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:0.694439"
+       id="rect1677"
+       width="181.07333"
+       height="19.423605"
+       x="22.941574"
+       y="343.68604"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#808000;stroke-width:5.74603"
+       id="rect1679"
+       width="270.93332"
+       height="191.02916"
+       x="-21.988419"
+       y="257.88327"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.849451"
+       id="rect1681"
+       width="270.93332"
+       height="19.423605"
+       x="-21.988419"
+       y="257.88327"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.849451"
+       id="rect1683"
+       width="270.93332"
+       height="19.423605"
+       x="-21.988419"
+       y="429.4888"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.770931"
+       id="rect1685"
+       width="223.16019"
+       height="19.423605"
+       x="1.8981476"
+       y="386.58743"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.770931"
+       id="rect1687"
+       width="223.16019"
+       height="19.423605"
+       x="1.8981476"
+       y="300.78464"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;stroke-width:0.694439"
+       id="rect1689"
+       width="181.07333"
+       height="19.423605"
+       x="22.941574"
+       y="343.68604"
+       ry="9.7118025"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:5.74603"
+       id="rect1691"
+       width="270.93332"
+       height="191.02916"
+       x="-28.513893"
+       y="480.6178"
+       inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g11392"
+       style="fill:#ff0000">
+      <g
+         id="g11226"
+         transform="matrix(0.98313417,0,0,0.98313417,1.8038466,9.9290399)"
+         style="fill:#ff0000"
+         inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           id="rect1695"
+           style="fill:#ff0000;stroke-width:1.28858"
+           d="m -6.1659065,553.78412 c -12.3810025,0 -22.3479895,9.96749 -22.3479895,22.34851 0,12.38099 9.966987,22.34798 22.3479895,22.34798 H 28.36997 v -44.69649 z m 191.7014765,0 v 44.69649 h 34.53535 c 12.38101,0 22.34851,-9.96699 22.34851,-22.34798 0,-12.38102 -9.9675,-22.34851 -22.34851,-22.34851 z" />
+        <g
+           id="g3815"
+           style="fill:#ff0000">
+          <rect
+             style="fill:#ff0000;stroke-width:0.388741"
+             id="rect1697"
+             width="104.94608"
+             height="10.501982"
+             x="54.479733"
+             y="510.81876"
+             ry="5.2509909"
+             inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <g
+             id="g3726"
+             transform="translate(1.9194273)"
+             style="fill:#ff0000">
+            <path
+               id="path2257"
+               style="fill:#ff0000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 39.272538,492.03039 C 24.707818,491.9817 -3.0307978,502.76512 -5.5495319,511.16204 -10.462888,530.84 28.587837,545.75768 48.149515,546.45547 l -0.05994,-49.49515 c -0.0042,-3.47732 -3.548944,-4.91234 -8.817033,-4.92993 z m 8.876977,54.42508 h 65.535535 v -21.4085 H 48.149515 Z" />
+            <path
+               id="path3722"
+               style="fill:#ff0000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 170.79415,492.03039 c 14.56472,-0.0487 42.30334,10.73472 44.82208,19.13165 4.91335,19.67796 -34.13738,34.59564 -53.69905,35.29343 l 0.0599,-49.49516 c 0.004,-3.47731 3.54894,-4.91233 8.81703,-4.92992 z m -8.87697,54.42508 H 96.381643 v -21.4085 h 65.535537 z" />
+          </g>
+          <rect
+             style="fill:#ff0000;stroke-width:0.388741"
+             id="rect3728"
+             width="104.94608"
+             height="10.501982"
+             x="54.479733"
+             y="498.04172"
+             ry="5.2509909"
+             inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+        </g>
+        <g
+           id="g3827"
+           transform="matrix(1,0,0,-1,-9.4045745e-6,1151.8333)"
+           style="fill:#ff0000">
+          <rect
+             style="fill:#ff0000;stroke-width:0.388741"
+             id="rect3817"
+             width="104.94608"
+             height="10.501982"
+             x="54.479733"
+             y="510.81876"
+             ry="5.2509909"
+             inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <g
+             id="g3823"
+             transform="translate(1.9194273)"
+             style="fill:#ff0000">
+            <path
+               id="path3819"
+               style="fill:#ff0000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 39.272538,492.03039 C 24.707818,491.9817 -3.0307978,502.76512 -5.5495319,511.16204 -10.462888,530.84 28.587837,545.75768 48.149515,546.45547 l -0.05994,-49.49515 c -0.0042,-3.47732 -3.548944,-4.91234 -8.817033,-4.92993 z m 8.876977,54.42508 h 65.535535 v -21.4085 H 48.149515 Z" />
+            <path
+               id="path3821"
+               style="fill:#ff0000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 170.79415,492.03039 c 14.56472,-0.0487 42.30334,10.73472 44.82208,19.13165 4.91335,19.67796 -34.13738,34.59564 -53.69905,35.29343 l 0.0599,-49.49516 c 0.004,-3.47731 3.54894,-4.91233 8.81703,-4.92992 z m -8.87697,54.42508 H 96.381643 v -21.4085 h 65.535537 z" />
+          </g>
+          <rect
+             style="fill:#ff0000;stroke-width:0.388741"
+             id="rect3825"
+             width="104.94608"
+             height="10.501982"
+             x="54.479733"
+             y="498.04172"
+             ry="5.2509909"
+             inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:40.5562px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#ff0000;stroke-width:1.01391"
+         x="64.35688"
+         y="593.5589"
+         id="text4183"
+         inkscape:export-filename="/home/kwadroke/Projects/ee-trekmod/alertOverlay.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan4181"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:ultra-condensed;font-size:40.5562px;font-family:Antonio;-inkscape-font-specification:'Antonio, Bold Ultra-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;stroke-width:1.01391"
+           x="64.35688"
+           y="593.5589">ALERT</tspan></text>
+    </g>
+  </g>
+</svg>
