@@ -1,6 +1,6 @@
 # EETrek
 
-A Trek-like mod for [Empty Epsilon](http://emptyepsilon.org/).
+A Trek-like mod for [Empty Epsilon](https://daid.github.io/EmptyEpsilon/).
 
 
 ---

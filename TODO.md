@@ -2,7 +2,6 @@
 
 ## Important
 
-- Fix Helm, science, etc KeyValue boxes. Currently unreadable.
 
 ## Next Steps
 
@@ -16,3 +15,8 @@
 ## Maybe to do?
 
 - add CC0 Music ?
+
+## DONE
+
+- Fix Helm, science, etc KeyValue boxes. 
+  - A work-around has been used KeyValue until [#1681](https://github.com/daid/EmptyEpsilon/issues/1681) has been fixed.
