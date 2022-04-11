@@ -1,7 +1,8 @@
-# ToDO
+# ToDo
 
 ## Important
 
+A new Pre-Release version has changed the way that theming/mods work. Create a new branch for Pre-Release then merge into Main after Pre-release moves to Release.
 
 ## Next Steps
 
